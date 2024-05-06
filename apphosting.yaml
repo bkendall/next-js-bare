@@ -1,5 +1,5 @@
 runConfig:
-  minInstances: 3
+  minInstances: 1
 env:
 - variable: HELLO
   value: WORLD
